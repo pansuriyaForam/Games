@@ -91,4 +91,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 This project is a fun experiment and a learning experience. Excited to keep adding more features! 🚀🎮
 
----
+Download and Enjoy playing this game on Windows or Linux from [itich.io](https://pansuriyaforamben.itch.io/cosmic-snake-a-galactic-adventure)
